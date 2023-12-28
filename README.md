@@ -4,7 +4,7 @@ Utilizado en capacitación para desarrollo en Java.
 
 ## Installation
 
-- Se debe crear la BD MySQL: consultorio_odontologico.
+- Se debe crear la BD MySQL: clinica_odonto.
     * Importar la base de datos que se encuentra en TestPackage del proyecto.
     * Tener en cuenta de tener la dependencia de MySQL en el proyecto, y que del lado de los servicios, se conecte correctamete la BD.
 - Se debe tener un servidor tomcat 9. 
